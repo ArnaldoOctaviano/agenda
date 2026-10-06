@@ -8,7 +8,7 @@
    - NUNCA utilize a "service_role" no frontend.
    ============================================================ */
 
-const SUPABASE_URL = 'https://ssmnbpzlffagcgmipqha.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://ssmnbpzlffagcgmipqha.supabase.co';
 
 const SUPABASE_ANON_KEY = 'sb_publishable_-0VIomAnPRb9-UhAeIbeOA_alXXyu-S';
 
